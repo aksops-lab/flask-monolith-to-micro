@@ -1,5 +1,3 @@
-# flask-monolith-to-micro
-
 # Flask Monolith to Microservice PoC
 
 This repository is a **Proof of Concept (PoC)** for converting a monolithic Flask + PostgreSQL application into a **microservice-ready architecture**.
